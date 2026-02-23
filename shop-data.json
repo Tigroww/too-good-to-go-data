@@ -1,19 +1,19 @@
 {
   "store": {
-    "name": "Le P'tit Mitron",
-    "address": "144 Rue Saint-Denis, 93100 Montreuil, France",
-    "addressShort": "144 Rue Saint-Denis, 93100 Montreuil, Fr...",
-    "logoText": "Le P'tit<br>Mitron"
+    "name": "U.graine - Paris 6ème",
+    "address": "5 Rue Littré, 75006 Paris, France",
+    "addressShort": "5 Rue Littré, 75006 Paris, Fr...",
+    "logoText": "U.graine"
   },
   "order": {
-    "date": "21 févr. 2026",
-    "collectTime": "19:00 - 21:00",
-    "code": "CYEPD376HE060",
-    "itemName": "1x Panier boulangerie",
-    "itemPrice": "2,49 €",
+    "date": "23 févr. 2026",
+    "collectTime": "17:00 - 18:00",
+    "code": "UGRAINE456",
+    "itemName": "1x Panier surprise fleurs & plantes",
+    "itemPrice": "12,49 €",
     "quantity": "1x",
-    "itemType": "Panier boulangerie",
+    "itemType": "Panier surprise fleurs & plantes",
     "paymentMethod": "Credit Card: Mastercard",
-    "packagingText": "Le commerçant fournira l'emballage, mais nous vous encourageons à apporter votre propre sac pour ramener le panier chez vous."
+    "packagingText": "Rescue bouquets of fresh flower. Le commerçant fournira l'emballage, mais nous vous encourageons à apporter votre propre sac pour protéger vos fleurs."
   }
 }
