@@ -1,12 +1,11 @@
 {
   "store": {
     "name": "Fleur de nuit - Voltaire",
-    "address": "41 Bd Voltaire, 75011
-Paris, France",
-    "addressShort": "41 Bd Voltaire, 75011
-Paris, Fr...",
+    "address": "41 Bd Voltaire, 75011 Paris, France",
+    "addressShort": "41 Bd Voltaire, 75011 Paris, Fr...",
     "logoText": "",
-    "logoImage": "https://tigroww.github.io/too-good-to-go-data/logos/image1.jpeg"  },
+    "logoImage": "https://tigroww.github.io/too-good-to-go-data/logos/image1.jpeg"
+  },
   "order": {
     "date": "24 févr. 2026",
     "collectTime": "13:30 - 20:00",
