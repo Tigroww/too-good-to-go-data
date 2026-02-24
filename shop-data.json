@@ -1,19 +1,19 @@
 {
   "store": {
-    "name": "Fleur de nuit - Voltaire",
-    "address": "41 Bd Voltaire, 75011 Paris, France",
-    "addressShort": "41 Bd Voltaire, 75011 Paris, Fr...",
+    "name": "Eric Kayser - Duroc",
+    "address": "1 Boulevard du Montparnasse, 75006 Paris, France",
+    "addressShort": "1 Boulevard du Montparnasse, 75006 Paris, Fr...",
     "logoText": "",
-    "logoImage": "https://tigroww.github.io/too-good-to-go-data/logos/image1.jpeg"
+    "logoImage": "https://tigroww.github.io/too-good-to-go-data/logos/image2.jpeg"
   },
   "order": {
-    "date": "24 févr. 2026",
-    "collectTime": "13:30 - 20:00",
-    "itemName": "1x Panier surprise 30€",
-    "itemPrice": "7,49 €",
+    "date": "25 févr. 2026",
+    "collectTime": "19:50 - 20:20",
+    "itemName": "1x Sélection du Jour",
+    "itemPrice": "5,99 €",
     "quantity": "1x",
-    "itemType": "Panier surprise 30€",
+    "itemType": "Sélection du Jour",
     "paymentMethod": "Credit Card: Mastercard",
-    "packagingText": "Rescue bouquets of fresh flower. Le commerçant fournira l'emballage, mais nous vous encourageons à apporter votre propre sac pour protéger vos fleurs."
+    "packagingText": "Découvrez l'artisanat français dans votre panier surprise Eric Kayser. Ce panier vous offre un assortiment gourmand de produits salés et/ou sucrés, soigneusement sélectionnés parmi les invendus de la journée. Le contenu change quotidiennement (pains, viennoiserie, sandwichs, pâtisserie), vous offrant une expérience gourmande tout en contribuant à la réduction du gaspillage alimentaire."
   }
 }
