@@ -1,17 +1,19 @@
 {
   "store": {
-    "name": "U.graine - Paris 6ème",
-    "address": "5 Rue Littré, 75006 Paris, France",
-    "addressShort": "5 Rue Littré, 75006 Paris, Fr...",
+    "name": "Fleur de nuit - Voltaire",
+    "address": "41 Bd Voltaire, 75011
+Paris, France"
+    "addressShort": "41 Bd Voltaire, 75011
+Paris, Fr...",
     "logoText": "",
     "logoImage": "https://tigroww.github.io/too-good-to-go-data/logos/image1.jpeg"  },
   "order": {
     "date": "24 févr. 2026",
-    "collectTime": "17:00 - 18:00",
-    "itemName": "1x Panier surprise fleurs & plantes",
-    "itemPrice": "11,29 €",
+    "collectTime": "13:30 - 20:00",
+    "itemName": "1x Panier surprise 30€",
+    "itemPrice": "7,49 €",
     "quantity": "1x",
-    "itemType": "Panier surprise fleurs & plantes",
+    "itemType": "Panier surprise 30€",
     "paymentMethod": "Credit Card: Mastercard",
     "packagingText": "Rescue bouquets of fresh flower. Le commerçant fournira l'emballage, mais nous vous encourageons à apporter votre propre sac pour protéger vos fleurs."
   }
