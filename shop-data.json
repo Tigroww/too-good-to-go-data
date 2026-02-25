@@ -1,19 +1,19 @@
 {
   "store": {
-    "name": "Eric Kayser - Duroc",
-    "address": "1 Boulevard du Montparnasse, 75006 Paris, France",
-    "addressShort": "1 Boulevard du Montparnasse, 75006 Paris, Fr...",
-    "logoText": "",
-    "logoImage": "https://tigroww.github.io/too-good-to-go-data/logos/Image2.jpeg"
+    "name": "Olivier fleuriste - Lorette",
+    "address": "53 Rue Notre Dame de Lorette, 75009 Paris, France",
+    "addressShort": "53 Rue Notre Dame de Lorette, 75009 Paris, Fr...",
+    "logoText": "L'Atelier d'Olivier",
+    "logoImage": "https://play-lh.googleusercontent.com/quz0e_wQPyPjZvuUXfCo7yphvpth0tpo_VxLX2ODtXW60R9cm-jRDbwXNtgby7NGYkU=w240-h480-rw"
   },
   "order": {
     "date": "25 févr. 2026",
-    "collectTime": "19:50 - 20:20",
-    "itemName": "1x Sélection du Jour",
-    "itemPrice": "5,99 €",
+    "collectTime": "14:00–18:00",
+    "itemName": "1x Moyen panier plantes",
+    "itemPrice": "15,00 €",
     "quantity": "1x",
-    "itemType": "Sélection du Jour",
+    "itemType": "Moyen panier plantes",
     "paymentMethod": "Credit Card: Mastercard",
-    "packagingText": "Découvrez l'artisanat français dans votre panier surprise Eric Kayser..."
+    "packagingText": "🌺 Venez sauver un assortiment surprise des invendus du jour parmi des plantes 👉Certaines plantes pourraient avoir perdu leurs fleurs, mais elles réapparaîtront une fois bien installées chez vous !"
   }
 }
