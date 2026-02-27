@@ -1,19 +1,20 @@
 {
   "store": {
-    "name": "U.graine - Paris 6ème",
-    "address": "5 Rue Littré, 75006 Paris, France",
-    "addressShort": "5 Rue Littré, 75006 Paris, Fr...",
-    "logoText": "u.graine",
-    "logoImage": "https://img.specialtycoffee.paris/shops/ugraine/logo.jpg"
+    "name": "Deli Hemp / Aromes coffee",
+    "address": "86 Ave Parmentier, 75011 Paris, France",
+    "addressShort": "86 Ave Parmentier, 75011 Paris, Fr...",
+    "logoText": "Deli Hemp",
+    "logoImage": "https://boutique.deli-hemp.fr/img/deli-hemp-logo-1770302199.jpg"
   },
   "order": {
     "date": "25 févr. 2026",
-    "collectTime": "17:00–18:00",
-    "itemName": "1x Surprise Bag",
-    "itemPrice": "6,99 €",
+    "collectTime": "17:00–19:00",
+    "itemName": "1x Panier CBD 45€",
+    "itemPrice": "14,99 €",
+    "originalPrice": "45,00 €",
     "quantity": "1x",
-    "itemType": "Panier surprise fleurs & plantes",
+    "itemType": "Panier CBD 45€",
     "paymentMethod": "Credit Card: Mastercard",
-    "packagingText": "Rescue a bouquet of fresh flowers."
+    "packagingText": "🍃 Qu'est-ce qui vous attend ? Votre panier surprise peut contenir un assortiment varié de produits à base de CBD, tels que des fleurs (principalement), de la résine (fonds de pot), ou encore des échantillons d'autres produits. Chaque panier est conçu pour vous offrir une expérience unique et relaxante, tout en luttant contre le gaspillage. 🛍️ À noter : Le prix de l'emballage est déjà inclus dans le tarif total de votre panier. ⚠️ Surprise garantie ! Le contenu de votre panier est aléatoire : vous ne pouvez pas le choisir, mais chaque découverte est une opportunité de tester de nouvelles variétés et textures. ➡️ Ensemble, faisons un geste pour la planète 🌍. 🚨 Amenez votre propre sac 🚨"
   }
 }
